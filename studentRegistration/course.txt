@@ -1,0 +1,16 @@
+CENG1234;Data Structures and Algorithms;Mustafa Erbaş;4
+CENG2345;Programming Languages;Zeynep Günay;4
+CENG5678;Machine Learning;Ziynet Alacalı;4
+MATH1234;Calculus;Tarkan Öner;3
+MATH2345;Linear Algebra;Murat Karabaş;2
+MATH5678;Differential Equations;Özlem Seyfi;3
+MATH6789;Analytical Geometry;Ali Aslan;3
+PHYS1234;General Physics;Cahit Karanfil;6
+PHYS2345;Electricity and Magnetism;Mehmet Günsas;1
+PHYS5678;Thermodynamics;Semir Atahan;5
+MUSİC1234;Learning Instruments;Songül Nar;2
+ENG1234;Academic Writing;Asiye Osman;3
+ENG2345;Speech Skills;Afra Saraç;4
+ENG5678;Introduction to English Literature;Aslı Akar;7
+OHAS1234;Occupational Health and Safety;Barış Zornar;0
+MME1234;Learning Materials;Ali Arslankaya;0
